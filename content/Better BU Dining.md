@@ -1,0 +1,3 @@
+[Better BU Dining](https://budining.samcowan.net)
+
+A tool I made with **Flask** and **Bootstrap** at the beginning of my freshman year to help myself and others with dietary restrictions navigate the BU dining halls. The actual BU Dining website offers supposed filters but these don’t work as intended, particularly for gluten free food. Better BU Dining scrapes the dining hall website with **BeautifulSoup** and stores the menu every day in a **Firebase** database. Users can select dietary restrictions which the app looks for in the ingredients lists of the menu items.

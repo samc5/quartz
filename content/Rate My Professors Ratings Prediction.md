@@ -1,0 +1,3 @@
+## [View Project](https://github.com/samc5/RMP_110)
+
+For my DS 110 final project, I used various **Python** libraries (**pandas**, **scikit-learn**, **nltk**) to analyze a dataset of 20,000 RateMyProfessors reviews for characteristics that most impacted professor ratings. I trained random forest classifier and linear regression models to predict each professor’s average rating. I also experimented with Word2Vec embeddings to compute attractiveness ratings for professors based on students’ descriptions of them, and conducted t-tests to determine statistical significance of correlations (yes, more attractive professors had higher ratings).

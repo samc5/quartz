@@ -1,0 +1,3 @@
+Course Assistant for DS 210 under Professors Leonidas Kontothanassis and Alishah Chator. I hold office hours twice a week to assist students with homework, test prep, and general understanding of material, as well as grade assignments and attend weekly staff meetings to discuss issues and plan course material.
+
+DS 210 ("Programming for Data Science") is the second programming class in the BU DS course sequence, using Rust and introducing students to data structures, graph algorithms, Unix commands, and other topics.

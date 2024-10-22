@@ -1,0 +1,3 @@
+## [View Project](https://github.com/samc5/Final_DS210)
+
+For my DS 210 project in **Rust**, I analyzed a graph dataset of Facebook social connectedness between US counties and worldwide countries. I cleaned and re-formatted the data, and constructed a minimum spanning tree to keep only the most significant connections between locations. I then analyzed the results to verify unexpected edges (i.e. Singapore to Elmore County, Idaho, which turns out to be the site of a Singaporean air force base).
