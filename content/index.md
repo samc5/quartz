@@ -1,3 +1,7 @@
+---
+title: Bio
+---
+
 ## Hi, I’m Sam Cowan!
 
 **I’m a second-year at Boston University studying Data Science and Statistics, with a minor in Spanish. Some of my interests include sports analytics, elections, [forecasting](https://en.wikipedia.org/wiki/Superforecasting:_The_Art_and_Science_of_Prediction)), and reading old blogs.**
