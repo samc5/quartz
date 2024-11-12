@@ -1,0 +1,2 @@
+- Is it funny if it doesn't offend anyone?
+- Jokes always create an outgroup ([[LA OVEJA NEGRA|Oveja Negra]])

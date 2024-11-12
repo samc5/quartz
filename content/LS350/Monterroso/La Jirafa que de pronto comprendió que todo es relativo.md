@@ -1,0 +1,2 @@
+- La jirafa ve las horrores de guerra, pero su reacción es más sobre tan cerca ella es a las balas
+- Our tendency when a tragedy happens in an area tangentially related to our live is "oh my god I could have been there" but that isn't in a sense of empathy and more of a misplaced thrill we get. Fake empathy (what a horrible tragedy for those involved, I could have died!)

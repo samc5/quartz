@@ -1,0 +1,13 @@
+Temas
+- gender roles (roles de género)
+	- La mujer barbuda, él rol aumentado del padre
+- El horror
+- Relación a [[Carta a una Señorita en París]]
+	- Cortázar fue su mentor y en algunas formas su inspiración
+	- Conectado a [[Cortázar sobre el cuento]]
+- el divorcio, la separación
+	- el narrador dice "tu hija come pájaros", no "mi hija"
+	- *¿Papa, Me quieres?*
+- la linea entre las mascotas y la comida
+	- the bird food at the supermercado, the instrucciónes sobre como cuidar por un pájaro
+- la expresión más común es "Pajaritos en la cabeza, para significar alguien loco
