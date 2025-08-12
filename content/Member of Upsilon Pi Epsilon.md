@@ -1,0 +1,2 @@
+- Member of computer science honor society
+- Administered technical interview for 5 applicants

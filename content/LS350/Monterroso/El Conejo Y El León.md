@@ -1,3 +1,0 @@
-- Making fun of psicoanalistas/científicos, believing that he is observing something while in fact being like way up in the tree.
-- El psicoanilista decide que el león es más cobarde, que es el opuesto de la realidad de la león (es como the Wizard of Oz). Igualmente, el conejo es valiente por huir (otra vez, ridículo).
-- Perhaps this is about how scientists (particularly social scientist) have models of the world that just don´t match up with reality

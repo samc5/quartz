@@ -1,3 +1,0 @@
-- The Art of Memory - Yates
-- Fear and Trembling - Kierkegaard
-- Everything Dylan Thomas

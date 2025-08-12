@@ -1,2 +1,0 @@
-##### Análisis
-Este fábulo es sobre la longitud a que algunas personas van para que los demás piensan que están *cool* o intelligente o interesante. Es el sindrome del impostor; nadie tiene confianza en lo que los demás les gustamos. Probablemente, esa es una de las razónes de por qué voy al gimnasio; como la rana, si mis piernas parecen impresivo, siento que las impreciónes de mí son más positivas.  
