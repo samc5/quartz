@@ -19,13 +19,13 @@ title: Bio
 ### Work Experience
 - [[Data Analyst Intern @ Moody's Ratings]] (June 2025 - August 2025)
 - **[[Course Assistant @ BU (DS 210)]]** (September 2024 - May 2025)
-- **[[Transportation Engineering Intern @ Philip Habib and Associates]]** (May - August 2024)
+- **[[Traffic Engineering Intern @ Philip Habib and Associates]]** (May - August 2024)
 - **[[Research Assistant @ BU]]** (March 2024 - August 2024)
 - **[[Open Streets Intern @ Prospect Heights Neighborhood Development Council]]** (July - August 2023)
 
 ### Club Leadership
-- [[Principal Tech Lead @ BU Data Science Association]]
-- [[Events Coordinator @ BU Sports Analytics Group]]
+- [[Vice President @ BU Data Science Association]]
+- [[Event Coordinator @ BU Sports Analytics Group]]
 ### Hackathon Projects/Experience
 - [[CivicHacks 2025]] - Winner of Community Safety/Civil Rights track
 - Ohio State Sports Analytics Hackathon - Winner of virtual hackathon, presented at OSU Sports Analytics Conference - [[OSU Hackathon Presentation.pdf|Optimizing the CFP and Selection Criteria]]
