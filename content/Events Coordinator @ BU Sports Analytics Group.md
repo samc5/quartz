@@ -1,3 +1,0 @@
-- Founding e-board of club for BU students with an interest in sports analytics
-- Planned events, including general meetings, super bowl party, March Madness bracket making
-- Built and presented slideshow on history of college basketball ranking systems
