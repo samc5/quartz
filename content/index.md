@@ -6,7 +6,7 @@ title: Bio
 **I’m a junior at Boston University studying Data Science, with a minor in Spanish. Some of my interests include sports analytics, elections, [forecasting](https://en.wikipedia.org/wiki/Superforecasting:_The_Art_and_Science_of_Prediction)), and reading old blogs.**
 
 ### Independent Projects
-- [[Stomping Out Fielder Pitch Tipping|"Stomping" Out Fielder Pitch Tipping (2025 SMT Data Challenge)]]
+- [[Stomping out Fielder Pitch Tipping|"Stomping" Out Fielder Pitch Tipping (2025 SMT Data Challenge)]]
 - [[Papyrss|Papyrss: A Modern RSS Reader]]
 - [[Better BU Dining]]
 - [[WatchPeglegs]]
