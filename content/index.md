@@ -30,8 +30,9 @@ title: Bio
 ### Selected Projects
 **Outside of classes**
 - [[Free Buses for Y'all, Youse, and You Guys]]
-- [[Papyrss|Papyrss: A Modern RSS Reader]]
-**From Classes**
+- [[Papyrss|Papyrss: A Modern RSS Reader]]  
+
+**Class Projects**
 - [[Rising Bandits for Best Athlete Identification]] (DS 592, May 2025)
 - [[Stock Market Prediction with Future News]] (DS340, April 2025)
 ### Hackathon Projects
