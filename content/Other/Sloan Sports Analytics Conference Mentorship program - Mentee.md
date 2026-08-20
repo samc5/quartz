@@ -1,0 +1,1 @@
+In March 2026 I attended the Sloan Sports Analytics Conference as part of their mentorship program. I went to a lot of panels and met folks from ESPN, DraftKings (through an office visit), and various teams, as well as my mentor from the Philadelphia Phillies

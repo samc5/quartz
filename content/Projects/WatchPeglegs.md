@@ -1,0 +1,4 @@
+## [WatchPeglegs](https://github.com/samc5/WatchPeglegs) (no longer hosted)  
+
+  A **Flask** app I built for the 2023 Stuyvesant baseball season to display a scoreboard above the embedded facebook livestream of our games. I used **Selenium** to scrape the url of GameChanger’s private API which was used to update the scoreboard live
+  

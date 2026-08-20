@@ -1,0 +1,1 @@
+Founding e-board of club developing a community for devoted sports fans and a professional pipeline to working in sports analytics. I have led discussions on live-coding WAR in baseball, college basketball projection systems, and helped organize/run a soccer data hackathon. 
