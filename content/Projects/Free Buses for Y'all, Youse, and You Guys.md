@@ -1,0 +1,5 @@
+As [[President of BU Data Science Association|Data Science Association President]] I led a team of 5 through a 6-week civic data science project as project manager and dev, with the goal to present at the NY School of Data Unconference in March 2026. 
+- Engineered an index of free bus need in neighborhoods throughout NYC, combining Open Datasets on bus segment speeds, vehicle ownership, bus stop locations, and ACS census data 
+- Presented at 2026 NYC School of Data Unconference after live pitch to hold a session
+- Co-wrote and published [LessWrong article](https://www.lesswrong.com/posts/P2kFeCt4bkKyzt2HS/mapping-transit-equity-in-nyc) about findings, outlining neighborhoods to focus future free bus pilots on (Harlem, South Bronx, Bensonhurst)
+- Managed a team of five through a 6-week project sprint
