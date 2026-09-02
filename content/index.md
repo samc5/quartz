@@ -4,7 +4,7 @@ title: Bio
 
 ## Hi, I’m Sam Cowan!
 
-**I’m a rising senior at Boston University studying Data Science, with a minor in Spanish. Some of my interests include sports analytics, elections, [forecasting](https://en.wikipedia.org/wiki/Superforecasting:_The_Art_and_Science_of_Prediction), financial markets, and reading random blogs.**
+**I’m a senior at Boston University studying Data Science, with a minor in Spanish. Some of my interests include sports analytics, elections, [forecasting](https://en.wikipedia.org/wiki/Superforecasting:_The_Art_and_Science_of_Prediction), financial markets, and reading random blogs.**
 ### My Links
 - [Linkedin](https://www.linkedin.com/in/sam-t-cowan/)
 - [Github](https://github.com/samc5)
