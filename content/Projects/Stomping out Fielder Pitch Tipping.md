@@ -6,4 +6,4 @@ Brief summary of what we did:
 - Designed faceted visualizations with ggplot2 showing fielders’ movement patterns by team and pitch type
 - Proposed implications for advance scouting
 
-[Link to the Paper](https://about.samcowan.net/Papers/Cowan_Rama_SMT_Pitch_tipping.pdf)
+[Link to the Paper](https://about.samcowan.net/Papers/Stomping Out Fielder Pitch Tipping.pdf)
